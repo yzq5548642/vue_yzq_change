@@ -49,6 +49,7 @@ export default {
   .breadcrumb {
     font-size: 14px;
     margin-left: 10px;
+    color: #fff;
   }
   .el-dropdown{
     color: #fff;
